@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manujaya Rathnayake</h1>
-<h3 align="center">I am an IT Undergraduate at Sri Lanka Institute of Information Technology. I am a Strong willed and loyal individual who is able to complete my tasks by overcoming, adapting and being responsible. </h3>
+<h3 align="center">BSc.(Hons) Information Technology. University Associate at Curtin Colombo. I am a Strong willed and loyal individual who is able to complete my tasks by overcoming, adapting and being responsible. </h3>
 
 
 
